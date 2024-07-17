@@ -1,4 +1,3 @@
 a=10
-c=input("Enter the value:")
-c=int(c)
+c=int(input("Enter the value:"))
 print(a+c)
